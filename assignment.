@@ -4,3 +4,4 @@
 <body style="background-color:lightsalmon;">
 <form>
 <label for=“fname”>First name:</label><br>
+<label for="lname">Last name:</label><br>
