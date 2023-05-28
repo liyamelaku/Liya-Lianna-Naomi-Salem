@@ -3,3 +3,4 @@
 <title>This is 10B's form</title>
 <body style="background-color:lightsalmon;">
 <form>
+<label for=“fname”>First name:</label><br>
