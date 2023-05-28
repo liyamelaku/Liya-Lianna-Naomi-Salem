@@ -17,6 +17,7 @@
 <input type="checkbox" id="hobby1" name="hobby1" value="Reading">
 
 
+<input type="checkbox" id="hobby2" name="hobby2" value="Reading">
 
 <label for="vehicle2"> I like Movies </label> <br> 
 
