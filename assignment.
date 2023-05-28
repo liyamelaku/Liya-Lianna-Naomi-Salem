@@ -14,10 +14,10 @@
 <label for="css">banana</label> <br>
 
 <label for=”javascript”>mango</label><br><br>
+
 <input type="checkbox" id="hobby1" name="hobby1" value="Reading">
 
-
-<input type="checkbox" id="hobby2" name="hobby2" value="Reading">
+<input type="checkbox" id="hobby2" name="hobby2" value="Movies">
 <label for="vehicle2"> I like Movies </label> <br> 
 
 <label for="vehicle3”> I like Music </label> <br> 
