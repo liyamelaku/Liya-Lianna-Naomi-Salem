@@ -19,10 +19,10 @@
 <label for="vehicle1"> I like Reading</label><br>
 <input type="checkbox" id="hobby2" name="hobby2" value="Movies">
 <label for="vehicle2"> I like Movies </label> <br> 
-
+<input type="checkbox" id="hobby3" name="hobby3" value="Music">
 <label for="vehicle3”> I like Music </label> <br> 
 
 <input type="submit" value="submit">
-
+</form>
 
 </html>
